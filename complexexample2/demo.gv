@@ -1,0 +1,15 @@
+digraph {
+
+a [shape=box image="gradient.png" label=<
+	<table border="0">
+	  <tr>
+	    <td border="0"><img src="tux.png"/></td>
+	  </tr>
+	  <tr>
+	    <td>I'm Tux</td>
+	  </tr>
+	</table> >]
+
+a -> b
+
+}
