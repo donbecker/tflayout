@@ -1,0 +1,12 @@
+digraph G {
+  rankdir=LR
+  vpc [shape=box style="rounded", label=<
+	<table border="0">
+	  <tr>
+	    <td border="1"><img src="vpc.png"/></td>
+	  </tr>
+	  <tr>
+	    <td>I'm Tux</td>
+	  </tr>
+	</table> >]
+}
