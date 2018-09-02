@@ -3,7 +3,7 @@ digraph G {
   vpc [shape=box style="rounded", label=<
 	<table border="0">
 	  <tr>
-	    <td border="1"><img src="vpc.png"/></td>
+	    <td border="1"></td>
 	  </tr>
 	  <tr>
 	    <td>I'm Tux</td>
